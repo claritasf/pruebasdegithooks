@@ -1,4 +1,2 @@
 
-otra pueba porq salio error
-
-hola es una prueba
+Hola estoy probando git hooks del curso platzi
